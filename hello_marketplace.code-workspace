@@ -6,6 +6,9 @@
     },
     {
       "path": "projects/hello_marketplace"
+    },
+    {
+      "path": "projects/frontend"
     }
   ],
   "settings": {
